@@ -9,7 +9,7 @@
 ## Screenshots
 
 ### Twitter bot
-![Screenshot](cyber.png)
+![Screenshot](cb1.png)
 
 ### UI
 ![Screenshot](cyber2.png)
